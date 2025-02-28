@@ -4,4 +4,4 @@ When applying the multiplier theorem to an (n, k, λ)-difference set, one may wi
 Example: setting n=21 and q=2, the script prints the following:
 "Orbits found: [[0], [1, 2, 4, 8, 16, 11], [3, 6, 12], [5, 10, 20, 19, 17, 13], [7, 14], [9, 18, 15]]"
 
-This matches the orbits one would expect when using repeated multiplication on Z_{21} in the form 2x, 2^2x, and so on.
+This matches the orbits one would expect when using repeated multiplication on Z_{21} in the form 2x, 2^2x, etc.. 
